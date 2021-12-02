@@ -51,8 +51,12 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb:
-  Hello dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: >
+  I am a seasoned professional with 35 years in Materials Management across multiple work centers.
+  Retired as Group General Manager of Materials Management Department (ONGC) overlooking on-shore and 
+  off-shore contracts. Efficient in all domains of Materials Management, Warehouse Management, C&F Functions,
+  Inventory Management and Contract Management. Proficient in developing and managing highly efficient supply
+  chain management. Proficient in Project and Team Management skills.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -95,10 +99,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Materials Management, color: '#fdb157', value: '100%'}
+- {name: Contract Management, color: '#9473e6', value: '100%'}
+- {name: Inventory Management, color: '#bdecf6', value: '100%'}
+- {name: Warehouse Management, color: '#ffbcaa', value: '100%'}
 
 
 #-------------------------------
