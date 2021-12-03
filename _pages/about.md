@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+author: U N Jha 
+image: assets/images/about/author-unjha.jpeg
 signature: assets/images/about/signature.png
 ---
 
