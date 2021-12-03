@@ -246,10 +246,15 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Vicky Jha"
+    image: "assets/images/testimonial/client-vicky.jpeg"
+    designation : "Investor"
+    content : > 
+      "Mr U N Jha's professionalism is beyond expectations and his knowledge about
+      Materials Management is extraordinary. Insightful, focussed and clear communication is what he 
+      brings to every occassion. I enthusiastically recommend him and wish him luck for all his future 
+      endeavors. Teaming up with him has sincerely been the most rewarding and pleasant experience of my life.
+      Definitely one of the most humble geniuses out there." 
     
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
