@@ -110,9 +110,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Manager, icon: 'icon-1.png', date: 'Jan 1983 - Feb 1997', organization: 'ONGC'}
+- {name: General Manager, icon: 'icon-2.png', date: 'Mar 1997 - Aug 2018', organization: 'ONGC'}
+- {name: Group General Manager, icon: 'icon-3.png', date: 'Sep 2018 (retd.)', organization: 'ONGC'}
 
 
 #-------------------------------
