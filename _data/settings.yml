@@ -41,10 +41,9 @@ hero:
   hero-title: Hi! I’m <br> Udaya Narayan Jha <br> Material Management Consultant
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/udaya-jha-6375a3a7/"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/profile.php?id=100005454544720"}
+- {icon: "ti-twitter", link: "https://mobile.twitter.com/jhanudaya"}
 
 
 #-------------------------------
