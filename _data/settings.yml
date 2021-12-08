@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Udaya Narayan Jha <br> Material Management Consultant
+  hero-title: Hi! I’m <br> Udaya Narayan Jha <br> <br> Material Management Consultant
 
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/udaya-jha-6375a3a7/"}
