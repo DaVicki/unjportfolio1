@@ -136,19 +136,19 @@ services:
 - {
     name: Consulting,
     icon: ti-palette,
-    description: 'Description of Consulting',
+    description: 'Inventory & Supply Chain Management',
     active: # Add true to select section
   }
 - {
     name: Consulting,
     icon: ti-vector,
-    description: 'Description of Consulting',
+    description: 'Contract, Materials & Warehouse Management',
     active: true # Add true to select section
   }
 - {
     name: Consulting,
     icon: ti-panel,
-    description: 'Description of Consulting ',
+    description: 'Liasing/Coordination & People Management',
     active: # Add true to select section
   }
 
