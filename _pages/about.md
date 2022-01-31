@@ -77,10 +77,11 @@ Note - any .md file would be rendered as .html when the site is built
 - 2018: Group General Manager (M.M)
 - 2012: General Manager (M.M)
 - 2006: Dy. General Manager (M.M)
-- 1999: Manager (M.M)
-- 1996: Jt. Director (S & P)
-- 1993: Dy. Manager (S & P)
-- 1983: M.M. Officer
+- 1999: Chief Manager (M.M)
+- 1996: Manager (M.M)
+- 1993: Sr Dy Director (M.M)
+- 1988: Dy Director (M.M)
+- 1983: Stores & Purchase Officer (S & P) 
 
 ----------------------
 
