@@ -109,14 +109,14 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Group General Manager (M.M), icon: 'icon-1.png', date: 'Sep 2018 (retd.)', organization: 'ONGC'}
-- {name: General Manager (M.M), icon: 'icon-2.png', date: 'Sep 2012', organization: 'ONGC'}
-- {name: Dy. General Manager (M.M), icon: 'icon-3.png', date: 'Sep 2006', organization: 'ONGC'}
-- {name: Ch. Manager (M.M), icon: 'icon-1.png', date: 'Sep 1999', organization: 'ONGC'}
-- {name: Manager (M.M), icon: 'icon-2.png', date: 'Sep 1997', organization: 'ONGC'}
-- {name: Jt. Director (S & P), icon: 'icon-3.png', date: 'Sep 1996', organization: 'ONGC'}
-- {name: Dy. Manager (S & P), icon: 'icon-1.png', date: 'Sep 1993', organization: 'ONGC'}
-- {name: M.M Officer, icon: 'icon-2.png', date: 'Sep 1983', organization: 'ONGC'}
+- {name: Group General Manager (M.M), icon: 'icon-1.png', date: 'Jan 2018 (retd.)', organization: 'ONGC'}
+- {name: General Manager (M.M), icon: 'icon-2.png', date: 'Jan 2012', organization: 'ONGC'}
+- {name: Deputy General Manager (M.M), icon: 'icon-3.png', date: 'Jan 2006', organization: 'ONGC'}
+- {name: Chief Manager (M.M), icon: 'icon-1.png', date: 'Jan 1999', organization: 'ONGC'}
+- {name: Manager (M.M), icon: 'icon-2.png', date: 'Jan 1996', organization: 'ONGC'}
+- {name: Sr Dy Director (M.M), icon: 'icon-3.png', date: 'Jan 1993', organization: 'ONGC'}
+- {name: Dy Manager (M.M), icon: 'icon-1.png', date: 'Jan 1998', organization: 'ONGC'}
+- {name: Stores & Purchase Officer(S&P), icon: 'icon-2.png', date: 'Jan 1983', organization: 'ONGC'}
 
 
 #-------------------------------
