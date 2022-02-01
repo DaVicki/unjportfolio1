@@ -12,8 +12,6 @@ copyright: Copyright &copy; 2020 Designed by [Da_Vicki](https://github.com/DaVic
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 
@@ -268,6 +266,13 @@ testimonial-items:
     content: >
       "Mr Jha is an excellent head purchase, he excelled in his job by providing lot of help in procurement. He has gone
       out the way to help. I salute Mr U N Jha, i wish he has a fruitful happy healthy second innings of life"
+  
+  - name: "Pradeep Goel"
+    image: "assets/images/testimonial/client-pradeep.jpeg"
+    designation: "DGM, ONGC"
+    content: >
+      "Mr Jha is a great personality. He is always helpful, especially towards GT's. You have a very positive personality
+      always willing to work in the interest of the organization. I wish you and your family a very happy second innings"
 
 
 #-------------------------------
