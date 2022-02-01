@@ -245,9 +245,9 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Vicky Jha"
+  - name: "Vicky"
     image: "assets/images/testimonial/client-vicky.jpeg"
-    designation : "Investor"
+    designation : "Engineer, Intuit"
     content : > 
       "Mr U N Jha's professionalism is beyond expectations and his knowledge about
       Materials Management is extraordinary. Insightful, focussed and clear communication is what he 
@@ -255,15 +255,19 @@ testimonial-items:
       endeavors. Teaming up with him has sincerely been the most rewarding and pleasant experience of my life.
       Definitely one of the most humble geniuses out there." 
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Neeraj Kumar"
+    image: "assets/images/testimonial/client-neeraj.jpeg"
+    designation: "GM, ONGC"
+    content: >
+      "Mr Jha is an encyclopedia of MM department, very humble, very straighforward, very easily approachable. He was
+      like a mentor for us. I wish him and his family all the best in his future course of life." 
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "NJS Hunjan"
+    image: "assets/images/testimonial/client-njshunjan.png"
+    designation: "GGM, ONGC"
+    content: >
+      "Mr Jha is an excellent head purchase, he excelled in his job by providing lot of help in procurement. He has gone
+      out the way to help. I salute Mr U N Jha, i wish he has a fruitful happy healthy second innings of life"
 
 
 #-------------------------------
