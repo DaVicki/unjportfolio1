@@ -2,4 +2,9 @@ _site
 .sass-cache
 .jekyll-metadata
 *.DS_Store
+<<<<<<< HEAD
 .jekyll-cache
+=======
+Gemfile.lock
+.jekyll-cache
+>>>>>>> a4ffe7caebfcbe1e704814106901a8da1c904b75
